@@ -15,5 +15,5 @@ Javascript
 Socket.io
 
 # Screenshot
- ![![Screenshot 2023-09-17 184750](https://github.com/FingNaresh/Chit_chat/assets/128717492/939bba6a-895f-41b0-9a64-b6e1f4650398)
-](https://github.com/FingNaresh/CHIT-CHAT/assets/128717492/43bca043-819f-4d59-b613-901ec9b4a137)
+![Screenshot 2023-09-17 184750](https://github.com/FingNaresh/Chit_chat/assets/128717492/daf2c9b7-bb69-4165-89b7-855b26f7e02c)
+
